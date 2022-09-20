@@ -1,0 +1,6 @@
+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
+token rizkyfebry
+
+
+git config --global credential.helper store
+git config --global credential.helper cache
