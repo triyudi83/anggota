@@ -1,30 +1,3 @@
-{
-  "name": "Chart.js",
-  "description": "Simple HTML5 Charts using the canvas element",
-  "homepage": "https://github.com/nnnick/Chart.js",
-  "author": "nnnick",
-  "main": [
-    "Chart.js"
-  ],
-  "ignore": [
-    "**/*",
-    ".travis.yml",
-    "CONTRIBUTING.md",
-    "Chart.js",
-    "LICENSE.md",
-    "README.md",
-    "gulpfile.js",
-    "package.json"
-  ],
-  "dependencies": {},
-  "version": "1.1.1",
-  "_release": "1.1.1",
-  "_resolution": {
-    "type": "version",
-    "tag": "v1.1.1",
-    "commit": "a62537a80029cd5a2e230769a652904e2de2d5d4"
-  },
-  "_source": "https://github.com/chartjs/Chart.js.git",
-  "_target": "^1.0",
-  "_originalSource": "chart.js"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7a4390dc6364d9f4daffb6e440dea33032b8ae5f501afcbb906fc956e16ae8c
+size 688

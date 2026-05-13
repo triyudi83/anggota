@@ -1,20 +1,3 @@
-{
-  "name": "bootstrap3-typeahead",
-  "version": "4.0.2",
-  "authors": [
-    "bassjobsen"
-  ],
-  "main": [
-    "bootstrap3-typeahead.js"
-  ],
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "jquery": ">=1.7.0"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b73a6d898e72c1425a24f405211600cf9093bcbf078f3d06dc2e4c5c5012f45
+size 312

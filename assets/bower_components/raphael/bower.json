@@ -1,30 +1,3 @@
-{
-  "name": "raphael",
-  "main": "raphael.js",
-  "description": "JavaScript Vector Library",
-  "dependencies": {
-    "eve-raphael": "0.5.0"
-  },
-  "devDependencies": {
-    "requirejs": "2.3.2"
-  },
-  "moduleType": [
-    "amd",
-    "globals"
-  ],
-  "keywords": ["svg", "vml", "javascript"],
-  "authors": [
-    "Dmitry Baranovskiy"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "*.html",
-    "*.json",
-    "*.markdown",
-    "*.md",
-    "copy.js",
-    "Gruntfile.js",
-    "reference.js"
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa15fb89af8762208de01014f5c9e10b47990c534e76e1c47e12ba12aca8da79
+size 530

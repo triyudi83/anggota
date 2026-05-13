@@ -1,11 +1,3 @@
-{
-	"name": "Flot",
-	"version": "0.8.3",
-	"main": "jquery.flot.js",
-	"scripts": {
-		"test": "make test"
-	},
-	"devDependencies": {
-		"jshint": "0.9.1"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c719f221c20e92f516d768f652ffeaa21154154492ac6c322c3ab80253c9477
+size 165

@@ -1,36 +1,3 @@
-{
-    "name": "datatables.net",
-    "description": "DataTables for jQuery ",
-    "main": [
-        "js/jquery.dataTables.js"
-    ],
-    "keywords": [
-        "filter",
-        "sort",
-        "DataTables",
-        "jQuery",
-        "table",
-        "DataTables"
-    ],
-    "dependencies": {
-        "jquery": ">=1.7"
-    },
-    "moduleType": [
-        "globals",
-        "amd",
-        "node"
-    ],
-    "ignore": [
-        "composer.json",
-        "datatables.json",
-        "package.json"
-    ],
-    "authors": [
-        {
-            "name": "SpryMedia Ltd",
-            "homepage": "https://datatables.net"
-        }
-    ],
-    "homepage": "https://datatables.net",
-    "license": "MIT"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa4c9d2b6c82bb58a2ee96664b6723b6530ee120a7a8bb49fa0e5a92b15dfd8
+size 727

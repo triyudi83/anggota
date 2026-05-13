@@ -1,21 +1,3 @@
-{
-    "name": "bassjobsen/bootstrap-3-typeahead",
-    "type": "component",
-    "license": "Apache-2.0",
-    "description": "Bootstrap 3 Typeahead",
-    "minimum-stability": "dev",
-    "authors": [
-        {
-            "name": "Bass Jobsen",
-            "email": "bass@w3masters.nl"
-        }
-    ],
-    "extra": {
-        "component": {
-            "files": [
-                "bootstrap3-typeahead.js",
-                "bootstrap3-typeahead.min.js"
-            ]
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9267e3bb09783d22c790246bced235d9b711196d0711e06b7ce2612e9fd82326
+size 503

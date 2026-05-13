@@ -1,11 +1,3 @@
-{
-  "spec_dir": "spec",
-  "spec_files": [
-    "**/*[sS]pec.js"
-  ],
-  "helpers": [
-    "helpers/**/*.js"
-  ],
-  "stopSpecOnExpectationFailure": false,
-  "random": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e72e09fc5e6caeb33f33d7ac76855e8de64cfdf0bff2f78000e85df57e099d9d
+size 182

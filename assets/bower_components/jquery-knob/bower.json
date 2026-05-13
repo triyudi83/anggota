@@ -1,13 +1,3 @@
-{
-  "name": "jquery-knob",
-  "version": "1.2.13",
-  "main": "js/jquery.knob.js",
-  "description": "Nice, downward compatible, touchable, jQuery dial.",
-  "license": "MIT",
-  "ignore": [],
-  "dependencies": {
-    "jquery": ">=1.7.0"
-  },
-  "devDependencies": {}
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7ae803faf50093625ff56705d44d4586514d81870e323e0af2db22a4d2170a3
+size 277
