@@ -658,7 +658,7 @@ const pengolah = [
   {
     "nik": "3523045305870003",
     "nama_pemilik_pengelola": "Afiatul Maula",
-    "kecamatan": "Bancar",
+    "kecamatan": "BANCAR",
     "alamat_lengkap": "Jalan Raya Bulu Meduro ",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -706,7 +706,7 @@ const pengolah = [
   {
     "nik": "3523125118500008",
     "nama_pemilik_pengelola": "Jasmila ",
-    "kecamatan": "Jenu",
+    "kecamatan": "JENU",
     "alamat_lengkap": "Suwalan",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -722,7 +722,7 @@ const pengolah = [
   {
     "nik": "352312430157001",
     "nama_pemilik_pengelola": "Rumiati",
-    "kecamatan": "Jenu",
+    "kecamatan": "JENU",
     "alamat_lengkap": "Dusun Tajungrejo Desa Kaliuntu",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -738,7 +738,7 @@ const pengolah = [
   {
     "nik": "3523044107640087",
     "nama_pemilik_pengelola": "Marfuah",
-    "kecamatan": "Bancar",
+    "kecamatan": "BANCAR",
     "alamat_lengkap": "Dsn Binangun Ds Bulumeduro Kec Bancar Kab Tuban",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -754,7 +754,7 @@ const pengolah = [
   {
     "nik": "3523045207670004",
     "nama_pemilik_pengelola": "ASMINAH",
-    "kecamatan": "Bancar",
+    "kecamatan": "BANCAR",
     "alamat_lengkap": "Ds. Bulujowo Kec. Bancar",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -946,7 +946,7 @@ const pengolah = [
   {
     "nik": "3523125605870001",
     "nama_pemilik_pengelola": "Siti Warnanik",
-    "kecamatan": "Jenu",
+    "kecamatan": "JENU",
     "alamat_lengkap": "Dusun Tajungrejo RT 3 / RW 2 Desa Kaliuntu",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -962,7 +962,7 @@ const pengolah = [
   {
     "nik": "3523124107640090",
     "nama_pemilik_pengelola": "Suyati",
-    "kecamatan": "Jenu",
+    "kecamatan": "JENU",
     "alamat_lengkap": "Dusun Kaliuntu Desa Kaliuntu ",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -978,7 +978,7 @@ const pengolah = [
   {
     "nik": "3523125104790001",
     "nama_pemilik_pengelola": "LILIK MUFADILAH",
-    "kecamatan": "Jenu",
+    "kecamatan": "JENU",
     "alamat_lengkap": "Ds. Kaliuntu, Kec. Jenu",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -994,7 +994,7 @@ const pengolah = [
   {
     "nik": "3523125904860001",
     "nama_pemilik_pengelola": "ROSMINAH",
-    "kecamatan": "Jenu",
+    "kecamatan": "JENU",
     "alamat_lengkap": "Ds. Beji, Kec. Jenu",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1074,7 +1074,7 @@ const pengolah = [
   {
     "nik": "3523186209710002",
     "nama_pemilik_pengelola": "SUTIYEM",
-    "kecamatan": "Palang",
+    "kecamatan": "PALANG",
     "alamat_lengkap": "Dsn. Sidorejo RT 2 RW3",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1106,7 +1106,7 @@ const pengolah = [
   {
     "nik": "3523185506580010",
     "nama_pemilik_pengelola": "Kasri",
-    "kecamatan": "Palang",
+    "kecamatan": "PALANG",
     "alamat_lengkap": "Pasekan",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1122,7 +1122,7 @@ const pengolah = [
   {
     "nik": "3523186106660002",
     "nama_pemilik_pengelola": "Patmi",
-    "kecamatan": "Palang",
+    "kecamatan": "PALANG",
     "alamat_lengkap": "Kradenan",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1154,7 +1154,7 @@ const pengolah = [
   {
     "nik": "3523185801730006",
     "nama_pemilik_pengelola": "Sumari",
-    "kecamatan": "Palang",
+    "kecamatan": "PALANG",
     "alamat_lengkap": "Kradenan",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1170,7 +1170,7 @@ const pengolah = [
   {
     "nik": "3523184107520049",
     "nama_pemilik_pengelola": "Srimuning",
-    "kecamatan": "Palang",
+    "kecamatan": "PALANG",
     "alamat_lengkap": "Kradenan",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1186,7 +1186,7 @@ const pengolah = [
   {
     "nik": "3523185009680002",
     "nama_pemilik_pengelola": "Ayatin",
-    "kecamatan": "Palang",
+    "kecamatan": "PALANG",
     "alamat_lengkap": "Kradenan",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1202,7 +1202,7 @@ const pengolah = [
   {
     "nik": "3523184107550090",
     "nama_pemilik_pengelola": "Ngasriah",
-    "kecamatan": "Palang",
+    "kecamatan": "PALANG",
     "alamat_lengkap": "Kradenan",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1218,7 +1218,7 @@ const pengolah = [
   {
     "nik": "3523184702790001",
     "nama_pemilik_pengelola": "Ida Aswati",
-    "kecamatan": "Palang",
+    "kecamatan": "PALANG",
     "alamat_lengkap": "Kradenan",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1234,7 +1234,7 @@ const pengolah = [
   {
     "nik": "3523185801730006",
     "nama_pemilik_pengelola": "Sumari",
-    "kecamatan": "Palang",
+    "kecamatan": "PALANG",
     "alamat_lengkap": "Kradenan",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1394,7 +1394,7 @@ const pengolah = [
   {
     "nik": "3523177008760001",
     "nama_pemilik_pengelola": "Harmi",
-    "kecamatan": "Plumpang",
+    "kecamatan": "PLUMPANG",
     "alamat_lengkap": "Jln Dusun Ngrayung",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1506,7 +1506,7 @@ const pengolah = [
   {
     "nik": "3523144606800001",
     "nama_pemilik_pengelola": "Sihnartik",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Betengrowo",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1522,7 +1522,7 @@ const pengolah = [
   {
     "nik": "3523146010720001",
     "nama_pemilik_pengelola": "Sulastri",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1538,7 +1538,7 @@ const pengolah = [
   {
     "nik": "3523146004770001",
     "nama_pemilik_pengelola": "Nanik",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1554,7 +1554,7 @@ const pengolah = [
   {
     "nik": "3523146002700001",
     "nama_pemilik_pengelola": "Muntatik",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1570,7 +1570,7 @@ const pengolah = [
   {
     "nik": "3523144311630001",
     "nama_pemilik_pengelola": "Kamsri",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1602,7 +1602,7 @@ const pengolah = [
   {
     "nik": "3523145106600003",
     "nama_pemilik_pengelola": "Pujiati",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1618,7 +1618,7 @@ const pengolah = [
   {
     "nik": "3523145911670001",
     "nama_pemilik_pengelola": "Kasniti",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1634,7 +1634,7 @@ const pengolah = [
   {
     "nik": "3523144106670003",
     "nama_pemilik_pengelola": "Sukini",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1650,7 +1650,7 @@ const pengolah = [
   {
     "nik": "3523145710760001",
     "nama_pemilik_pengelola": "Sukarni",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1666,7 +1666,7 @@ const pengolah = [
   {
     "nik": "3523145607770006",
     "nama_pemilik_pengelola": "Kasiyem",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1698,7 +1698,7 @@ const pengolah = [
   {
     "nik": "3523144908590001",
     "nama_pemilik_pengelola": "Kasminah",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1714,7 +1714,7 @@ const pengolah = [
   {
     "nik": "3523144908590001",
     "nama_pemilik_pengelola": "Kateni",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Temulus",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1730,7 +1730,7 @@ const pengolah = [
   {
     "nik": "3523147006640026",
     "nama_pemilik_pengelola": "Suti'Ah",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Logawe",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1746,7 +1746,7 @@ const pengolah = [
   {
     "nik": "3523144607720002",
     "nama_pemilik_pengelola": "Siti Kifayatun",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Logawe",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1762,7 +1762,7 @@ const pengolah = [
   {
     "nik": "3523144107750065",
     "nama_pemilik_pengelola": "Sutik",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Logawe",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1778,7 +1778,7 @@ const pengolah = [
   {
     "nik": "3506056307900006",
     "nama_pemilik_pengelola": "Ernawati",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Logawe",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1826,7 +1826,7 @@ const pengolah = [
   {
     "nik": "3523145203620003",
     "nama_pemilik_pengelola": "Marni",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Logawe",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1890,7 +1890,7 @@ const pengolah = [
   {
     "nik": "3523145510760001",
     "nama_pemilik_pengelola": "Mulyani",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Mbongjo",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1906,7 +1906,7 @@ const pengolah = [
   {
     "nik": "3523145608860002",
     "nama_pemilik_pengelola": "Rini Cahyani",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Mbongjo",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1938,7 +1938,7 @@ const pengolah = [
   {
     "nik": "3523144502850001",
     "nama_pemilik_pengelola": "Sukemi 30-",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Bulu",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1954,7 +1954,7 @@ const pengolah = [
   {
     "nik": "3523144407570002",
     "nama_pemilik_pengelola": "Subandi",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Bulu",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1970,7 +1970,7 @@ const pengolah = [
   {
     "nik": "3523146802870004",
     "nama_pemilik_pengelola": "Endang Rahayu",
-    "kecamatan": "Rengel",
+    "kecamatan": "RENGEL",
     "alamat_lengkap": "Bulu",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -1986,7 +1986,7 @@ const pengolah = [
   {
     "nik": "3523126512920002",
     "nama_pemilik_pengelola": "Siti Rocmiatun",
-    "kecamatan": "Semanding",
+    "kecamatan": "SEMANDING",
     "alamat_lengkap": "Dusun Krajan",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -2146,7 +2146,7 @@ const pengolah = [
   {
     "nik": "3523114401600001",
     "nama_pemilik_pengelola": "Sri Miati",
-    "kecamatan": "Soko",
+    "kecamatan": "SOKO",
     "alamat_lengkap": "Dsn Karang Dowo",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -2178,7 +2178,7 @@ const pengolah = [
   {
     "nik": "3523114401600001",
     "nama_pemilik_pengelola": "Sri Miati",
-    "kecamatan": "Soko",
+    "kecamatan": "SOKO",
     "alamat_lengkap": "Dsn Karang Dowo",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -2194,7 +2194,7 @@ const pengolah = [
   {
     "nik": "3523112204090002",
     "nama_pemilik_pengelola": "Ikram Cahyono Budianto",
-    "kecamatan": "Soko",
+    "kecamatan": "SOKO",
     "alamat_lengkap": "Dsn Karang Dowo",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -2354,7 +2354,7 @@ const pengolah = [
   {
     "nik": "3523064206950001",
     "nama_pemilik_pengelola": "DEVI AMBARWATI",
-    "kecamatan": "Tambakboyo",
+    "kecamatan": "TAMBAKBOYO",
     "alamat_lengkap": "Ds. Gadon, Kec. Tambakboyo",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -2370,7 +2370,7 @@ const pengolah = [
   {
     "nik": "3523065811800001",
     "nama_pemilik_pengelola": "PASRIAH",
-    "kecamatan": "Tambakboyo",
+    "kecamatan": "TAMBAKBOYO",
     "alamat_lengkap": "Ds. Kenanti, Kec. Tambakboyo",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -2386,7 +2386,7 @@ const pengolah = [
   {
     "nik": "3523060303550001",
     "nama_pemilik_pengelola": "KASDURI",
-    "kecamatan": "Tambakboyo",
+    "kecamatan": "TAMBAKBOYO",
     "alamat_lengkap": "Ds. Tambakboyo, Kec. Tambakboyo",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -2786,7 +2786,7 @@ const pengolah = [
   {
     "nik": "'3523161505700003",
     "nama_pemilik_pengelola": "HARIYADI NUGROHO",
-    "kecamatan": "Tuban",
+    "kecamatan": "TUBAN",
     "alamat_lengkap": "Jl. Semangka, Kel Perbon",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -3394,7 +3394,7 @@ const pengolah = [
   {
     "nik": "3523165707750003",
     "nama_pemilik_pengelola": "GENDUK ISTIQOMAH",
-    "kecamatan": "Tuban",
+    "kecamatan": "TUBAN",
     "alamat_lengkap": "Jl. Pangsud gg. Prahu rt 003/ rw001 Kel. Karangsari",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
@@ -3410,7 +3410,7 @@ const pengolah = [
   {
     "nik": "3523165808940007",
     "nama_pemilik_pengelola": "MAULIDA AFFIANI LARASATI",
-    "kecamatan": "Tuban",
+    "kecamatan": "TUBAN",
     "alamat_lengkap": "Perum Mondokan Sentosa Jl. Samosir DD15",
     "jenis_usaha": "PENGASAPAN IKAN",
     "skala_usaha": "Mikro",
