@@ -1,4 +1,4 @@
-[
+const pengolah = [
   {
     "nik": "3523046501790001",
     "nama_pemilik_pengelola": "KASMINI",
